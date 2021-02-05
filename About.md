@@ -1,9 +1,9 @@
 # About
 
-[Home](./README.md)
-[About](./About.md)
-[Schedule](./Schedule.md) 
-[Team Roles and Rules](./RolesRules.md)
+[Home](./README.md)  
+[About](./About.md)  
+[Schedule](./Schedule.md)  
+[Team Roles and Rules](./RolesRules.md)  
 
 ## Concept
 

@@ -1,9 +1,9 @@
 # Roles and Rules
 
-[Home](./README.md)
-[About](./About.md)
-[Schedule](./Schedule.md) 
-[Team Roles and Rules](./RolesRules.md)
+[Home](./README.md)  
+[About](./About.md)  
+[Schedule](./Schedule.md)  
+[Team Roles and Rules](./RolesRules.md)  
 
 ## Roles
 
@@ -12,6 +12,6 @@ Project Manager: Chantal
 Game Architect: Justin
 Software Architect: Ellen
 
-# Team Rules
+## Team Rules
 
 - 

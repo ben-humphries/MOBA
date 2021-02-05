@@ -1,8 +1,8 @@
-[Home](./README.md)
-[About](./About.md)
-[Schedule](./Schedule.md) 
-[Team Roles and Rules](./RolesRules.md)
+[Home](./README.md)  
+[About](./About.md)  
+[Schedule](./Schedule.md)  
+[Team Roles and Rules](./RolesRules.md)  
 
 # MOBA
 
-Developed with Unreal Engine 4
+Welcome to our website with information about our COMP 585H project, creating a MOBA for NVIDIA.
