@@ -9,7 +9,7 @@ Welcome to our website with information about our COMP 585H project, creating a 
 
 ## LINKS
 
-[Github Repository](https://github.com/ben-humphries/MOBA)
+[Github Repository](https://github.com/ben-humphries/MOBA)  
 [Paragon Assets](https://www.unrealengine.com/marketplace/en-US/assets?count=20&sortBy=effectiveDate&sortDir=DESC&start=0&tag=85)  
 [Game Design Document](https://docs.google.com/document/d/1wysV0TVNpPnKndmwjpj0Upsoih_lN5FPDGpdO524FpM/edit?usp=sharing)
 
