@@ -17,7 +17,6 @@ We will also use Github Pages for this website.
 
 ## Contact information
 
-Ben Humphries: benh (at) unc (dot) edu
-Yiyin Ellen Gu: yiyingu (at) live (dot) unc (dot) edu
-Justin Tse:
-Chantal Shine:
+Ben Humphries: benh (at) unc (dot) edu  
+Yiyin Ellen Gu: yiyingu (at) live (dot) unc (dot) edu  
+Justin Tse:  jtse321 (at) gmail (dot) com

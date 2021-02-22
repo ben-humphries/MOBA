@@ -7,10 +7,9 @@
 
 ## Roles
 
-Client and Instructor Manager: Ben
-Project Manager: Chantal
-Game Architect: Justin
-Software Architect: Ellen
+Client and Instructor Manager: Ben  
+Game Architect: Justin  
+Software Architect: Ellen  
 
 ## Team Rules
 
