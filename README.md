@@ -1,3 +1,3 @@
-Plus you need to import the ParagonMinions asset in the project under its default  path. the other files besides what is in the repo and the ParagonMinions are all from the initial TopDownTemplate Blueprint Version.
+The Big Asset Folder and the Paragon Minions Folder can be found in the [Drive](https://drive.google.com/drive/folders/0ALopg-fcGFDrUk9PVA) . You only need the Paragon Props folder under the Big Asset folder.
 
-![](https://i.imgur.com/kX1vt3d.png)
+![](https://i.imgur.com/KAn2Hw3.png)
